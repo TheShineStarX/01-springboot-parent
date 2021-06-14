@@ -21,7 +21,8 @@ public class StudentServiceImpl implements StudentService {
 
     public void wdtna(){
         System.out.println("我的天呐，git真的太神奇了！！");
-        System.out.println("直接和Theshy一样不可思议！");
+        System.out.println("简直和Theshy一样不可思议！");
+        System.out.println("简直和库里一样不可思议！");
     }
 
 }
