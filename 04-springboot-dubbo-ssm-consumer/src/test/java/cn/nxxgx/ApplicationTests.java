@@ -21,5 +21,10 @@ class ApplicationTests {
         System.out.println(student);
     }
 
+    @Test
+    public void testGit(){
+        System.out.println("hello git!!");
+    }
+
 
 }
