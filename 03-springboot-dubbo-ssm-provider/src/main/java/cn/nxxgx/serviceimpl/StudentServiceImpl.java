@@ -18,4 +18,9 @@ public class StudentServiceImpl implements StudentService {
     public Student queryStudentByName(String name) {
         return studentMapper.selectByPrimaryKey(name);
     }
+
+    public void wdtna(){
+        System.out.println("我的天呐，git真的太神奇了！！");
+    }
+
 }
