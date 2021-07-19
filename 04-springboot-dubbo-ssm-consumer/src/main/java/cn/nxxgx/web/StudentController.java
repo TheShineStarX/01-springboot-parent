@@ -18,10 +18,4 @@ public class StudentController {
        Student student = studentService.queryStudentByName(name);
        return student;
     }
-
-
-
-
-
-
 }
